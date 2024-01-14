@@ -1,0 +1,159 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Roboto;
+}
+p{
+    font-family: Poppins;
+}
+.logo_resize{
+    width: 100px;
+}
+
+.nav-item{
+    
+}
+
+.green_bg{
+    background: #F0FFF0;
+}
+
+.sign-in{
+    border-radius: 33px;
+    background: #21B573;
+    border: none;
+    padding: 8px 20px;
+    align-items: center;
+}
+.navbtn{
+    color: #FFF;
+    font-family: Roboto;
+    color:#FFF;
+    text-decoration: none;
+}
+
+.nav-link{
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.orange_txt{
+    color: #FD511A;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.bold_txt{
+    color: #000;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px; /* 145.833% */
+}
+
+.green_txt{
+    color: #21B573;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px;
+}
+
+.sample_txt{
+    width: 403px;
+    height: 85px;
+    flex-shrink: 0;
+    color: #6C6B6B;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 225% */
+}
+
+.get-started{
+    padding: 12px 36px;
+    align-items: center;
+    border-radius: 33px;
+    background: #21B573;
+    border: #21B573;
+    color: #FFF;
+}
+
+.container{
+    margin-bottom: 10px;
+}
+
+/*===================section2================== */
+.img-resize1{
+    width: 66px;
+    height: 85px;
+    flex-shrink: 0;
+}
+
+.img-resize2{
+    width: 80px;
+    height: 83px;
+    flex-shrink: 0;
+
+}
+.img-resize3{
+    width: 75px;
+    height: 80px;
+    flex-shrink: 0;
+}
+
+.img-resize4{
+    width: 68px;
+    height: 76px;
+    flex-shrink: 0;
+}
+
+.element_box{
+    width: 270px;
+    height: 270px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #F8FFFB;
+}
+
+.element_box2{
+    width: 270px;
+    height: 270px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+}
+
+.txt-middel{
+    text-align: center;
+    color: #585859;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.hd-mid{
+    text-align: center;
+    color: #413960;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.txt-btm{
+    position: relative;
+    top:32px;
+}
