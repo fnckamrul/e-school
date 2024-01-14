@@ -88,7 +88,7 @@ p{
 }
 
 .container{
-    margin-bottom: 10px;
+    
 }
 
 /*===================section2================== */
@@ -156,4 +156,179 @@ p{
 .txt-btm{
     position: relative;
     top:32px;
+}
+
+/* ==============section 3 card design================= */
+
+.section2{
+    margin-top: 100px;
+}
+
+.section3{
+    margin-top: 100px;
+}
+.section3_head{
+    margin-bottom: 92px;
+    color: #413960;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.buy-course-button{
+    padding: 8px 28px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 33px;
+    background: #21B573;
+    border: none;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cfoot_txt{
+    color: #585859;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.svg_color2{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.svg_color1{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.card-title{
+    color: #413960;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.card-text{
+    color: #585859;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.card{
+    border:none;
+    border-radius: 18px;
+    background: #FFF;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);
+}
+
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+
+/* ============================Testimonial=========================== */
+.testimonial{
+    margin-top: 110px;
+    color: #000;
+    font-family: Poppins;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.man_img{
+    width: 120px;
+    height: 120px;
+    flex-shrink: 0;
+    border-radius: 120px;
+}
+.card-text2{
+    color: #585859;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    top:0px;
+    left:50px;
+}
+
+.section4{
+    margin-bottom: 30px;
+}
+.flexbox0{
+    position: relative;
+    top:53px;
+    left:13px
+}
+
+.footer_section{
+    margin-top:150px;
+    width: 1463px;
+    height: 369px;
+    flex-shrink: 0;
+    background: #282531;
+    color: #FFF;
+    font-family: Poppins;
+}
+
+.footer-text{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.footer-text p{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+}
+.footer-text ul{
+    list-style: none;
+}
+
+.head-text{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 166.667% */
+}
+
+footer{
+    text-align: center;
+    color:#000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
 }
